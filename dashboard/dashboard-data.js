@@ -1,24 +1,36 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-07-28T10:22:00.9106983Z",
+    "updated_at":  "2026-07-28T23:11:22.5598519Z",
     "reply_summary":  {
                           "replied":  2,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-07-28T11:17:54.9556290Z",
-                          "last_checked_at":  "2026-07-29T04:50:56.1910026+09:00"
+                          "last_checked_at":  "2026-07-29T07:50:54.0526855+09:00"
                       },
     "posts":  [
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbWsA52ExLU",
+                      "published_at":  "2026-07-28T23:10:19+0000",
+                      "category":  "과학·우주",
+                      "topic":  "달의 발자국은 왜 오래 남을까",
+                      "metrics":  {
+                                      "views":  0,
+                                      "likes":  0,
+                                      "replies":  0
+                                  },
+                      "score":  0
+                  },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbVUAc_jkXo",
                       "published_at":  "2026-07-28T10:21:17+0000",
                       "category":  "동물·과학",
                       "topic":  "펭귄 발의 역류 열교환",
                       "metrics":  {
-                                      "views":  null,
-                                      "likes":  null,
-                                      "replies":  null
+                                      "views":  42,
+                                      "likes":  1,
+                                      "replies":  2
                                   },
-                      "score":  0
+                      "score":  55
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbULy6vE2t5",
@@ -26,11 +38,11 @@
                       "category":  "channel-guide",
                       "topic":  "I KNOW, YOU KNOW 채널 안내",
                       "metrics":  {
-                                      "views":  227,
+                                      "views":  249,
                                       "likes":  3,
                                       "replies":  0
                                   },
-                      "score":  236
+                      "score":  258
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbUJKHuk9td",
@@ -38,11 +50,11 @@
                       "category":  "과학",
                       "topic":  "목성의 붉은 점은 왜 수백 년째 사라지지 않을까",
                       "metrics":  {
-                                      "views":  23,
+                                      "views":  25,
                                       "likes":  0,
                                       "replies":  0
                                   },
-                      "score":  23
+                      "score":  25
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbUH9hAkxhp",
@@ -50,11 +62,11 @@
                       "category":  "과학",
                       "topic":  "태양 표면의 검은 점은 왜 검게 보일까",
                       "metrics":  {
-                                      "views":  68,
-                                      "likes":  1,
+                                      "views":  80,
+                                      "likes":  2,
                                       "replies":  0
                                   },
-                      "score":  71
+                      "score":  86
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbT-gzYE1RZ",
@@ -62,11 +74,11 @@
                       "category":  "과학",
                       "topic":  "우주에서는 왜 소리가 전달되지 않을까",
                       "metrics":  {
-                                      "views":  186,
+                                      "views":  191,
                                       "likes":  1,
                                       "replies":  0
                                   },
-                      "score":  189
+                      "score":  194
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbThBM-k1T7",
@@ -74,11 +86,11 @@
                       "category":  "animals",
                       "topic":  "워킹리프의 잎 위장",
                       "metrics":  {
-                                      "views":  23,
+                                      "views":  24,
                                       "likes":  1,
                                       "replies":  0
                                   },
-                      "score":  26
+                      "score":  27
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbRkxT8E-2R",
