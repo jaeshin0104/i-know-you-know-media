@@ -1,17 +1,36 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-07-28T09:16:11.7654801Z",
+    "updated_at":  "2026-07-28T10:22:00.9106983Z",
+    "reply_summary":  {
+                          "replied":  2,
+                          "ignored":  0,
+                          "failed":  1,
+                          "last_action_at":  "2026-07-28T11:17:54.9556290Z",
+                          "last_checked_at":  "2026-07-29T04:50:56.1910026+09:00"
+                      },
     "posts":  [
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbVUAc_jkXo",
+                      "published_at":  "2026-07-28T10:21:17+0000",
+                      "category":  "동물·과학",
+                      "topic":  "펭귄 발의 역류 열교환",
+                      "metrics":  {
+                                      "views":  null,
+                                      "likes":  null,
+                                      "replies":  null
+                                  },
+                      "score":  0
+                  },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbULy6vE2t5",
                       "published_at":  "2026-07-27T23:50:18+0000",
                       "category":  "channel-guide",
                       "topic":  "I KNOW, YOU KNOW 채널 안내",
                       "metrics":  {
-                                      "views":  221,
+                                      "views":  227,
                                       "likes":  3,
                                       "replies":  0
                                   },
-                      "score":  230
+                      "score":  236
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbUJKHuk9td",
@@ -31,11 +50,11 @@
                       "category":  "과학",
                       "topic":  "태양 표면의 검은 점은 왜 검게 보일까",
                       "metrics":  {
-                                      "views":  67,
+                                      "views":  68,
                                       "likes":  1,
                                       "replies":  0
                                   },
-                      "score":  70
+                      "score":  71
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbT-gzYE1RZ",
@@ -43,11 +62,11 @@
                       "category":  "과학",
                       "topic":  "우주에서는 왜 소리가 전달되지 않을까",
                       "metrics":  {
-                                      "views":  184,
+                                      "views":  186,
                                       "likes":  1,
                                       "replies":  0
                                   },
-                      "score":  187
+                      "score":  189
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbThBM-k1T7",
