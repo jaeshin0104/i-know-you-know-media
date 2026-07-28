@@ -1,17 +1,53 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-07-27T21:55:13.5378173Z",
+    "updated_at":  "2026-07-28T09:16:11.7654801Z",
     "posts":  [
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbULy6vE2t5",
+                      "published_at":  "2026-07-27T23:50:18+0000",
+                      "category":  "channel-guide",
+                      "topic":  "I KNOW, YOU KNOW 채널 안내",
+                      "metrics":  {
+                                      "views":  221,
+                                      "likes":  3,
+                                      "replies":  0
+                                  },
+                      "score":  230
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbUJKHuk9td",
+                      "published_at":  "2026-07-27T23:27:15+0000",
+                      "category":  "과학",
+                      "topic":  "목성의 붉은 점은 왜 수백 년째 사라지지 않을까",
+                      "metrics":  {
+                                      "views":  23,
+                                      "likes":  0,
+                                      "replies":  0
+                                  },
+                      "score":  23
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbUH9hAkxhp",
+                      "published_at":  "2026-07-27T23:16:48+0000",
+                      "category":  "과학",
+                      "topic":  "태양 표면의 검은 점은 왜 검게 보일까",
+                      "metrics":  {
+                                      "views":  67,
+                                      "likes":  1,
+                                      "replies":  0
+                                  },
+                      "score":  70
+                  },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbT-gzYE1RZ",
                       "published_at":  "2026-07-27T21:54:17+0000",
                       "category":  "과학",
                       "topic":  "우주에서는 왜 소리가 전달되지 않을까",
                       "metrics":  {
-                                      "views":  null,
-                                      "likes":  null,
-                                      "replies":  null
+                                      "views":  184,
+                                      "likes":  1,
+                                      "replies":  0
                                   },
-                      "score":  0
+                      "score":  187
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbThBM-k1T7",
@@ -19,11 +55,11 @@
                       "category":  "animals",
                       "topic":  "워킹리프의 잎 위장",
                       "metrics":  {
-                                      "views":  0,
-                                      "likes":  0,
+                                      "views":  23,
+                                      "likes":  1,
                                       "replies":  0
                                   },
-                      "score":  0
+                      "score":  26
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbRkxT8E-2R",
@@ -31,11 +67,11 @@
                       "category":  "general",
                       "topic":  "문어는 색만 바꾸는 게 아닙니다.",
                       "metrics":  {
-                                      "views":  113,
+                                      "views":  136,
                                       "likes":  5,
                                       "replies":  2
                                   },
-                      "score":  138
+                      "score":  161
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbP86HxE9Ej",
@@ -43,11 +79,11 @@
                       "category":  "general",
                       "topic":  "송골매는 산 위에만 살 것 같지만,",
                       "metrics":  {
-                                      "views":  41,
+                                      "views":  42,
                                       "likes":  1,
                                       "replies":  0
                                   },
-                      "score":  44
+                      "score":  45
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbP0Tk-k2G_",
@@ -67,11 +103,11 @@
                       "category":  "general",
                       "topic":  "모래에 작은 깔때기를 파고",
                       "metrics":  {
-                                      "views":  121,
+                                      "views":  122,
                                       "likes":  3,
                                       "replies":  1
                                   },
-                      "score":  135
+                      "score":  136
                   }
               ]
 };
