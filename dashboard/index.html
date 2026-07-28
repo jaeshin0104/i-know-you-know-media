@@ -12,16 +12,19 @@
   <main class="shell">
     <header class="top"><div class="brand">I KNOW, YOU KNOW</div><h1>채널 현황</h1><div class="updated" id="updated">데이터를 읽는 중…</div></header>
     <section class="grid" aria-label="핵심 성과" id="metrics"></section>
+    <section class="panel"><h2>댓글 운영 요약</h2><div id="reply-summary"></div></section>
     <section class="panel"><h2>게시물 성과</h2><div id="posts"></div></section>
     <p class="note">이 페이지는 채널 운영 성과만 공개합니다. 게시 본문, 댓글, 계정 정보와 인증 정보는 포함하지 않습니다.</p>
   </main>
   <script src="dashboard-data.js"></script>
   <script>
-    const data=window.PUBLIC_DASHBOARD||{posts:[]}; const posts=data.posts||[];
+    const data=window.PUBLIC_DASHBOARD||{posts:[]}; const posts=data.posts||[]; const reply=data.reply_summary||{};
     const num=v=>Number(v||0).toLocaleString('ko-KR'); const sum=k=>posts.reduce((a,p)=>a+Number(p.metrics?.[k]||0),0);
     const escapeHtml=s=>String(s??'').replace(/[&<>'"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',"'":'&#39;','"':'&quot;'}[c]));
     document.querySelector('#updated').textContent=data.updated_at?`최근 동기화 ${new Date(data.updated_at).toLocaleString('ko-KR')}`:'아직 동기화하지 않았습니다';
     document.querySelector('#metrics').innerHTML=[['게시물',posts.length],['조회',sum('views')],['좋아요',sum('likes')],['답글',sum('replies')]].map(([n,v])=>`<div class="metric"><span>${n}</span><strong>${num(v)}</strong></div>`).join('');
+    const time=v=>v?new Date(v).toLocaleString('ko-KR'):'기록 없음';
+    document.querySelector('#reply-summary').innerHTML=`<div class="meta">답변 게시 ${num(reply.replied)}회 · 답변 보류 ${num(reply.ignored)}회 · 실패 ${num(reply.failed)}회</div><div class="meta" style="margin-top:8px">마지막 댓글 확인 ${time(reply.last_checked_at)}<br>마지막 처리 ${time(reply.last_action_at)}</div>`;
     document.querySelector('#posts').innerHTML=posts.length?posts.slice().sort((a,b)=>(b.score||0)-(a.score||0)).map(p=>`<article class="post"><div><a href="${encodeURI(p.permalink||'#')}" target="_blank" rel="noreferrer">${escapeHtml(p.topic||'제목 미지정')}</a><div class="meta"><span class="tag">${escapeHtml(p.category||'general')}</span>조회 ${num(p.metrics?.views)} · 좋아요 ${num(p.metrics?.likes)} · 답글 ${num(p.metrics?.replies)}</div></div><div class="score">${num(p.score)}<div class="meta">점수</div></div></article>`).join(''):'<p class="meta">아직 게시물이 없습니다.</p>';
   </script>
 </body>
