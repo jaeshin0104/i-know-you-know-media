@@ -1,18 +1,18 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-07-29T09:28:17.1507487Z",
+    "updated_at":  "2026-07-29T23:42:29.0470909Z",
     "reply_summary":  {
                           "replied":  2,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-07-28T11:17:54.9556290Z",
-                          "last_checked_at":  "2026-07-29T17:50:54.1580838+09:00"
+                          "last_checked_at":  "2026-07-30T07:50:54.2315940+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbXymGdkxrK",
-                      "published_at":  "2026-07-29T09:27:03+0000",
-                      "category":  "일상 과학",
-                      "topic":  "비행기 창문의 작은 구멍",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbZUPS-E-7P",
+                      "published_at":  "2026-07-29T23:40:17+0000",
+                      "category":  "general",
+                      "topic":  "몸이 얼어붙어도 봄에 다시 움직이는 개구리가 있어요. 🐸",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
@@ -21,16 +21,40 @@
                       "score":  0
                   },
                   {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbZUHz-EyPi",
+                      "published_at":  "2026-07-29T23:39:15+0000",
+                      "category":  "동물 과학",
+                      "topic":  "나무개구리는 몸이 얼어도 어떻게 살아남을까",
+                      "metrics":  {
+                                      "views":  0,
+                                      "likes":  0,
+                                      "replies":  0
+                                  },
+                      "score":  0
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbXymGdkxrK",
+                      "published_at":  "2026-07-29T09:27:03+0000",
+                      "category":  "일상 과학",
+                      "topic":  "비행기 창문의 작은 구멍",
+                      "metrics":  {
+                                      "views":  195,
+                                      "likes":  1,
+                                      "replies":  1
+                                  },
+                      "score":  203
+                  },
+                  {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbWsA52ExLU",
                       "published_at":  "2026-07-28T23:10:19+0000",
                       "category":  "과학·우주",
                       "topic":  "달의 발자국은 왜 오래 남을까",
                       "metrics":  {
-                                      "views":  149,
+                                      "views":  161,
                                       "likes":  0,
                                       "replies":  0
                                   },
-                      "score":  149
+                      "score":  161
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbVUAc_jkXo",
@@ -86,11 +110,11 @@
                       "category":  "과학",
                       "topic":  "우주에서는 왜 소리가 전달되지 않을까",
                       "metrics":  {
-                                      "views":  191,
+                                      "views":  193,
                                       "likes":  1,
                                       "replies":  0
                                   },
-                      "score":  194
+                      "score":  196
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbThBM-k1T7",
