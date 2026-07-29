@@ -1,18 +1,18 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-07-28T23:11:22.5598519Z",
+    "updated_at":  "2026-07-29T09:28:17.1507487Z",
     "reply_summary":  {
                           "replied":  2,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-07-28T11:17:54.9556290Z",
-                          "last_checked_at":  "2026-07-29T07:50:54.0526855+09:00"
+                          "last_checked_at":  "2026-07-29T17:50:54.1580838+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbWsA52ExLU",
-                      "published_at":  "2026-07-28T23:10:19+0000",
-                      "category":  "과학·우주",
-                      "topic":  "달의 발자국은 왜 오래 남을까",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbXymGdkxrK",
+                      "published_at":  "2026-07-29T09:27:03+0000",
+                      "category":  "일상 과학",
+                      "topic":  "비행기 창문의 작은 구멍",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
@@ -21,16 +21,28 @@
                       "score":  0
                   },
                   {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbWsA52ExLU",
+                      "published_at":  "2026-07-28T23:10:19+0000",
+                      "category":  "과학·우주",
+                      "topic":  "달의 발자국은 왜 오래 남을까",
+                      "metrics":  {
+                                      "views":  149,
+                                      "likes":  0,
+                                      "replies":  0
+                                  },
+                      "score":  149
+                  },
+                  {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbVUAc_jkXo",
                       "published_at":  "2026-07-28T10:21:17+0000",
                       "category":  "동물·과학",
                       "topic":  "펭귄 발의 역류 열교환",
                       "metrics":  {
-                                      "views":  42,
+                                      "views":  43,
                                       "likes":  1,
                                       "replies":  2
                                   },
-                      "score":  55
+                      "score":  56
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbULy6vE2t5",
@@ -38,11 +50,11 @@
                       "category":  "channel-guide",
                       "topic":  "I KNOW, YOU KNOW 채널 안내",
                       "metrics":  {
-                                      "views":  249,
+                                      "views":  251,
                                       "likes":  3,
                                       "replies":  0
                                   },
-                      "score":  258
+                      "score":  260
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbUJKHuk9td",
@@ -62,11 +74,11 @@
                       "category":  "과학",
                       "topic":  "태양 표면의 검은 점은 왜 검게 보일까",
                       "metrics":  {
-                                      "views":  80,
+                                      "views":  84,
                                       "likes":  2,
                                       "replies":  0
                                   },
-                      "score":  86
+                      "score":  90
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbT-gzYE1RZ",
@@ -86,11 +98,11 @@
                       "category":  "animals",
                       "topic":  "워킹리프의 잎 위장",
                       "metrics":  {
-                                      "views":  24,
+                                      "views":  25,
                                       "likes":  1,
                                       "replies":  0
                                   },
-                      "score":  27
+                      "score":  28
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbRkxT8E-2R",
@@ -98,11 +110,11 @@
                       "category":  "general",
                       "topic":  "문어는 색만 바꾸는 게 아닙니다.",
                       "metrics":  {
-                                      "views":  136,
+                                      "views":  137,
                                       "likes":  5,
                                       "replies":  2
                                   },
-                      "score":  161
+                      "score":  162
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbP86HxE9Ej",
