@@ -1,18 +1,18 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-07-29T23:42:29.0470909Z",
+    "updated_at":  "2026-07-30T09:06:54.0183882Z",
     "reply_summary":  {
                           "replied":  2,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-07-28T11:17:54.9556290Z",
-                          "last_checked_at":  "2026-07-30T07:50:54.2315940+09:00"
+                          "last_checked_at":  "2026-07-30T17:50:54.9326353+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbZUPS-E-7P",
-                      "published_at":  "2026-07-29T23:40:17+0000",
-                      "category":  "general",
-                      "topic":  "몸이 얼어붙어도 봄에 다시 움직이는 개구리가 있어요. 🐸",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbaVEIyoC4j",
+                      "published_at":  "2026-07-30T09:06:43+0000",
+                      "category":  "일상 과학",
+                      "topic":  "양파를 썰면 왜 눈물이 날까",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
@@ -26,11 +26,11 @@
                       "category":  "동물 과학",
                       "topic":  "나무개구리는 몸이 얼어도 어떻게 살아남을까",
                       "metrics":  {
-                                      "views":  0,
+                                      "views":  116,
                                       "likes":  0,
                                       "replies":  0
                                   },
-                      "score":  0
+                      "score":  116
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbXymGdkxrK",
@@ -38,11 +38,11 @@
                       "category":  "일상 과학",
                       "topic":  "비행기 창문의 작은 구멍",
                       "metrics":  {
-                                      "views":  195,
+                                      "views":  205,
                                       "likes":  1,
                                       "replies":  1
                                   },
-                      "score":  203
+                      "score":  213
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbWsA52ExLU",
@@ -110,11 +110,11 @@
                       "category":  "과학",
                       "topic":  "우주에서는 왜 소리가 전달되지 않을까",
                       "metrics":  {
-                                      "views":  193,
+                                      "views":  194,
                                       "likes":  1,
                                       "replies":  0
                                   },
-                      "score":  196
+                      "score":  197
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbThBM-k1T7",
