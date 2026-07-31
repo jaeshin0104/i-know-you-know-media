@@ -1,24 +1,48 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-07-30T09:06:54.0183882Z",
+    "updated_at":  "2026-07-31T09:00:39.9507555Z",
     "reply_summary":  {
-                          "replied":  2,
+                          "replied":  3,
                           "ignored":  0,
                           "failed":  1,
-                          "last_action_at":  "2026-07-28T11:17:54.9556290Z",
-                          "last_checked_at":  "2026-07-30T17:50:54.9326353+09:00"
+                          "last_action_at":  "2026-07-30T23:51:43.0250949Z",
+                          "last_checked_at":  "2026-07-31T17:50:55.0268245+09:00"
                       },
     "posts":  [
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbc5HmioJQz",
+                      "published_at":  "2026-07-31T09:00:16+0000",
+                      "category":  "기상·자연현상",
+                      "topic":  "번개는 왜 지그재그로 갈라질까",
+                      "metrics":  {
+                                      "views":  0,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  5
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbb6NxCk4t1",
+                      "published_at":  "2026-07-30T23:50:36+0000",
+                      "category":  "동물의 감각 원리",
+                      "topic":  "고양이 눈은 왜 어둠 속에서 빛나 보일까",
+                      "metrics":  {
+                                      "views":  15,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  20
+                  },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbaVEIyoC4j",
                       "published_at":  "2026-07-30T09:06:43+0000",
                       "category":  "일상 과학",
                       "topic":  "양파를 썰면 왜 눈물이 날까",
                       "metrics":  {
-                                      "views":  0,
+                                      "views":  22,
                                       "likes":  0,
-                                      "replies":  0
+                                      "replies":  1
                                   },
-                      "score":  0
+                      "score":  27
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbZUHz-EyPi",
@@ -26,11 +50,11 @@
                       "category":  "동물 과학",
                       "topic":  "나무개구리는 몸이 얼어도 어떻게 살아남을까",
                       "metrics":  {
-                                      "views":  116,
+                                      "views":  118,
                                       "likes":  0,
                                       "replies":  0
                                   },
-                      "score":  116
+                      "score":  118
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbXymGdkxrK",
@@ -38,11 +62,11 @@
                       "category":  "일상 과학",
                       "topic":  "비행기 창문의 작은 구멍",
                       "metrics":  {
-                                      "views":  205,
+                                      "views":  206,
                                       "likes":  1,
                                       "replies":  1
                                   },
-                      "score":  213
+                      "score":  214
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbWsA52ExLU",
@@ -62,11 +86,11 @@
                       "category":  "동물·과학",
                       "topic":  "펭귄 발의 역류 열교환",
                       "metrics":  {
-                                      "views":  43,
+                                      "views":  44,
                                       "likes":  1,
                                       "replies":  2
                                   },
-                      "score":  56
+                      "score":  57
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbULy6vE2t5",
@@ -170,11 +194,11 @@
                       "category":  "general",
                       "topic":  "모래에 작은 깔때기를 파고",
                       "metrics":  {
-                                      "views":  122,
+                                      "views":  123,
                                       "likes":  3,
                                       "replies":  1
                                   },
-                      "score":  136
+                      "score":  137
                   }
               ]
 };
