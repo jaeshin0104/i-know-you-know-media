@@ -1,18 +1,18 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-08-01T09:00:39.6546807Z",
+    "updated_at":  "2026-08-02T10:47:32.1308540Z",
     "reply_summary":  {
                           "replied":  3,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-07-30T23:51:43.0250949Z",
-                          "last_checked_at":  "2026-08-01T17:50:54.9474952+09:00"
+                          "last_checked_at":  "2026-08-02T18:50:56.6966208+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbfd6jzoECf",
-                      "published_at":  "2026-08-01T09:00:17+0000",
-                      "category":  "동물의 생존·행동 원리",
-                      "topic":  "올빼미는 왜 날갯소리가 작을까",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbiOzYyIChj",
+                      "published_at":  "2026-08-02T10:45:56+0000",
+                      "category":  "일상에서 만나는 재료 과학",
+                      "topic":  "연잎은 왜 빗방울로 스스로 깨끗해질까",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
@@ -21,16 +21,40 @@
                       "score":  5
                   },
                   {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbg-C9Zk50w",
+                      "published_at":  "2026-08-01T23:00:17+0000",
+                      "category":  "동물의 생존·감각 원리",
+                      "topic":  "도마뱀붙이는 접착제 없이 어떻게 벽에 붙을까",
+                      "metrics":  {
+                                      "views":  682,
+                                      "likes":  2,
+                                      "replies":  3
+                                  },
+                      "score":  703
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbfd6jzoECf",
+                      "published_at":  "2026-08-01T09:00:17+0000",
+                      "category":  "동물의 생존·행동 원리",
+                      "topic":  "올빼미는 왜 날갯소리가 작을까",
+                      "metrics":  {
+                                      "views":  31,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  36
+                  },
+                  {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbeZQF5EwNg",
                       "published_at":  "2026-07-31T23:00:16+0000",
                       "category":  "동물의 감각 원리",
                       "topic":  "염소 동공은 왜 가로로 길까",
                       "metrics":  {
-                                      "views":  912,
-                                      "likes":  2,
+                                      "views":  972,
+                                      "likes":  3,
                                       "replies":  1
                                   },
-                      "score":  923
+                      "score":  986
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbc5HmioJQz",
@@ -38,11 +62,11 @@
                       "category":  "기상·자연현상",
                       "topic":  "번개는 왜 지그재그로 갈라질까",
                       "metrics":  {
-                                      "views":  70,
+                                      "views":  71,
                                       "likes":  1,
                                       "replies":  1
                                   },
-                      "score":  78
+                      "score":  79
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbb6NxCk4t1",
@@ -50,11 +74,11 @@
                       "category":  "동물의 감각 원리",
                       "topic":  "고양이 눈은 왜 어둠 속에서 빛나 보일까",
                       "metrics":  {
-                                      "views":  17,
+                                      "views":  18,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  22
+                      "score":  23
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbaVEIyoC4j",
@@ -62,11 +86,11 @@
                       "category":  "일상 과학",
                       "topic":  "양파를 썰면 왜 눈물이 날까",
                       "metrics":  {
-                                      "views":  24,
+                                      "views":  26,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  29
+                      "score":  31
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbZUHz-EyPi",
@@ -74,11 +98,11 @@
                       "category":  "동물 과학",
                       "topic":  "나무개구리는 몸이 얼어도 어떻게 살아남을까",
                       "metrics":  {
-                                      "views":  120,
+                                      "views":  121,
                                       "likes":  0,
                                       "replies":  0
                                   },
-                      "score":  120
+                      "score":  121
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbXymGdkxrK",
@@ -86,11 +110,11 @@
                       "category":  "일상 과학",
                       "topic":  "비행기 창문의 작은 구멍",
                       "metrics":  {
-                                      "views":  209,
+                                      "views":  210,
                                       "likes":  1,
                                       "replies":  1
                                   },
-                      "score":  217
+                      "score":  218
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbWsA52ExLU",
@@ -122,11 +146,11 @@
                       "category":  "channel-guide",
                       "topic":  "I KNOW, YOU KNOW 채널 안내",
                       "metrics":  {
-                                      "views":  254,
+                                      "views":  255,
                                       "likes":  3,
                                       "replies":  0
                                   },
-                      "score":  263
+                      "score":  264
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbUJKHuk9td",
