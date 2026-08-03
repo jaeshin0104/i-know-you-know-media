@@ -1,18 +1,18 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-08-02T10:47:32.1308540Z",
+    "updated_at":  "2026-08-03T09:00:37.3742711Z",
     "reply_summary":  {
                           "replied":  3,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-07-30T23:51:43.0250949Z",
-                          "last_checked_at":  "2026-08-02T18:50:56.6966208+09:00"
+                          "last_checked_at":  "2026-08-03T17:50:57.0548432+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbiOzYyIChj",
-                      "published_at":  "2026-08-02T10:45:56+0000",
-                      "category":  "일상에서 만나는 재료 과학",
-                      "topic":  "연잎은 왜 빗방울로 스스로 깨끗해질까",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbkngIMIONU",
+                      "published_at":  "2026-08-03T09:00:13+0000",
+                      "category":  "동물의 감각·생존·행동",
+                      "topic":  "오리 깃털은 왜 물을 튕길까",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
@@ -21,16 +21,40 @@
                       "score":  5
                   },
                   {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbji1_JE54E",
+                      "published_at":  "2026-08-02T23:00:18+0000",
+                      "category":  "동물의 감각·생존·행동",
+                      "topic":  "상어 피부는 왜 사포처럼 거칠까",
+                      "metrics":  {
+                                      "views":  5,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  10
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbiOzYyIChj",
+                      "published_at":  "2026-08-02T10:45:56+0000",
+                      "category":  "일상에서 만나는 재료 과학",
+                      "topic":  "연잎은 왜 빗방울로 스스로 깨끗해질까",
+                      "metrics":  {
+                                      "views":  15,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  20
+                  },
+                  {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbg-C9Zk50w",
                       "published_at":  "2026-08-01T23:00:17+0000",
                       "category":  "동물의 생존·감각 원리",
                       "topic":  "도마뱀붙이는 접착제 없이 어떻게 벽에 붙을까",
                       "metrics":  {
-                                      "views":  682,
+                                      "views":  687,
                                       "likes":  2,
                                       "replies":  3
                                   },
-                      "score":  703
+                      "score":  708
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbfd6jzoECf",
