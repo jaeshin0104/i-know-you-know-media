@@ -1,18 +1,18 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-08-03T09:00:37.3742711Z",
+    "updated_at":  "2026-08-04T09:00:37.6527024Z",
     "reply_summary":  {
                           "replied":  3,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-07-30T23:51:43.0250949Z",
-                          "last_checked_at":  "2026-08-03T17:50:57.0548432+09:00"
+                          "last_checked_at":  "2026-08-04T17:50:58.2390408+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbkngIMIONU",
-                      "published_at":  "2026-08-03T09:00:13+0000",
-                      "category":  "동물의 감각·생존·행동",
-                      "topic":  "오리 깃털은 왜 물을 튕길까",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbnMS28oG8M",
+                      "published_at":  "2026-08-04T09:00:12+0000",
+                      "category":  "일상에서 만나는 과학",
+                      "topic":  "동전을 만진 뒤 나는 쇠 냄새는 정말 금속 냄새일까",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
@@ -21,16 +21,40 @@
                       "score":  5
                   },
                   {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbmJVNKE5wd",
+                      "published_at":  "2026-08-03T23:15:07+0000",
+                      "category":  "동물의 감각·생존·행동",
+                      "topic":  "공작갯가재의 주먹은 왜 물속에서 두 번 충격을 만들까",
+                      "metrics":  {
+                                      "views":  339,
+                                      "likes":  2,
+                                      "replies":  1
+                                  },
+                      "score":  350
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbkngIMIONU",
+                      "published_at":  "2026-08-03T09:00:13+0000",
+                      "category":  "동물의 감각·생존·행동",
+                      "topic":  "오리 깃털은 왜 물을 튕길까",
+                      "metrics":  {
+                                      "views":  16,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  21
+                  },
+                  {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbji1_JE54E",
                       "published_at":  "2026-08-02T23:00:18+0000",
                       "category":  "동물의 감각·생존·행동",
                       "topic":  "상어 피부는 왜 사포처럼 거칠까",
                       "metrics":  {
-                                      "views":  5,
+                                      "views":  6,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  10
+                      "score":  11
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbiOzYyIChj",
@@ -98,11 +122,11 @@
                       "category":  "동물의 감각 원리",
                       "topic":  "고양이 눈은 왜 어둠 속에서 빛나 보일까",
                       "metrics":  {
-                                      "views":  18,
+                                      "views":  19,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  23
+                      "score":  24
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbaVEIyoC4j",
@@ -134,11 +158,11 @@
                       "category":  "일상 과학",
                       "topic":  "비행기 창문의 작은 구멍",
                       "metrics":  {
-                                      "views":  210,
+                                      "views":  211,
                                       "likes":  1,
                                       "replies":  1
                                   },
-                      "score":  218
+                      "score":  219
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbWsA52ExLU",
@@ -170,11 +194,11 @@
                       "category":  "channel-guide",
                       "topic":  "I KNOW, YOU KNOW 채널 안내",
                       "metrics":  {
-                                      "views":  255,
+                                      "views":  256,
                                       "likes":  3,
                                       "replies":  0
                                   },
-                      "score":  264
+                      "score":  265
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbUJKHuk9td",
