@@ -1,18 +1,18 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-08-04T09:00:37.6527024Z",
+    "updated_at":  "2026-08-05T09:00:45.7201919Z",
     "reply_summary":  {
                           "replied":  3,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-07-30T23:51:43.0250949Z",
-                          "last_checked_at":  "2026-08-04T17:50:58.2390408+09:00"
+                          "last_checked_at":  "2026-08-05T17:50:58.1849674+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbnMS28oG8M",
-                      "published_at":  "2026-08-04T09:00:12+0000",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbpxGWXoIhh",
+                      "published_at":  "2026-08-05T09:00:17+0000",
                       "category":  "일상에서 만나는 과학",
-                      "topic":  "동전을 만진 뒤 나는 쇠 냄새는 정말 금속 냄새일까",
+                      "topic":  "커피 얼룩은 왜 가장자리만 진할까",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
@@ -21,22 +21,70 @@
                       "score":  5
                   },
                   {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbosbhYkxBF",
+                      "published_at":  "2026-08-04T23:00:17+0000",
+                      "category":  "동물의 감각·생존·행동",
+                      "topic":  "별코두더지의 별 모양 코는 왜 생겼을까",
+                      "metrics":  {
+                                      "views":  188,
+                                      "likes":  1,
+                                      "replies":  2
+                                  },
+                      "score":  201
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbnMS28oG8M",
+                      "published_at":  "2026-08-04T09:00:12+0000",
+                      "category":  "일상에서 만나는 과학",
+                      "topic":  "동전을 만진 뒤 나는 쇠 냄새는 정말 금속 냄새일까",
+                      "metrics":  {
+                                      "views":  1307,
+                                      "likes":  2,
+                                      "replies":  1
+                                  },
+                      "score":  1318
+                  },
+                  {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbmJVNKE5wd",
                       "published_at":  "2026-08-03T23:15:07+0000",
                       "category":  "동물의 감각·생존·행동",
                       "topic":  "공작갯가재의 주먹은 왜 물속에서 두 번 충격을 만들까",
                       "metrics":  {
-                                      "views":  339,
+                                      "views":  361,
                                       "likes":  2,
                                       "replies":  1
                                   },
-                      "score":  350
+                      "score":  372
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbkngIMIONU",
                       "published_at":  "2026-08-03T09:00:13+0000",
                       "category":  "동물의 감각·생존·행동",
                       "topic":  "오리 깃털은 왜 물을 튕길까",
+                      "metrics":  {
+                                      "views":  17,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  22
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbji1_JE54E",
+                      "published_at":  "2026-08-02T23:00:18+0000",
+                      "category":  "동물의 감각·생존·행동",
+                      "topic":  "상어 피부는 왜 사포처럼 거칠까",
+                      "metrics":  {
+                                      "views":  7,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  12
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbiOzYyIChj",
+                      "published_at":  "2026-08-02T10:45:56+0000",
+                      "category":  "일상에서 만나는 재료 과학",
+                      "topic":  "연잎은 왜 빗방울로 스스로 깨끗해질까",
                       "metrics":  {
                                       "views":  16,
                                       "likes":  0,
@@ -45,40 +93,16 @@
                       "score":  21
                   },
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbji1_JE54E",
-                      "published_at":  "2026-08-02T23:00:18+0000",
-                      "category":  "동물의 감각·생존·행동",
-                      "topic":  "상어 피부는 왜 사포처럼 거칠까",
-                      "metrics":  {
-                                      "views":  6,
-                                      "likes":  0,
-                                      "replies":  1
-                                  },
-                      "score":  11
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbiOzYyIChj",
-                      "published_at":  "2026-08-02T10:45:56+0000",
-                      "category":  "일상에서 만나는 재료 과학",
-                      "topic":  "연잎은 왜 빗방울로 스스로 깨끗해질까",
-                      "metrics":  {
-                                      "views":  15,
-                                      "likes":  0,
-                                      "replies":  1
-                                  },
-                      "score":  20
-                  },
-                  {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbg-C9Zk50w",
                       "published_at":  "2026-08-01T23:00:17+0000",
                       "category":  "동물의 생존·감각 원리",
                       "topic":  "도마뱀붙이는 접착제 없이 어떻게 벽에 붙을까",
                       "metrics":  {
-                                      "views":  687,
+                                      "views":  688,
                                       "likes":  2,
                                       "replies":  3
                                   },
-                      "score":  708
+                      "score":  709
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbfd6jzoECf",
@@ -86,11 +110,11 @@
                       "category":  "동물의 생존·행동 원리",
                       "topic":  "올빼미는 왜 날갯소리가 작을까",
                       "metrics":  {
-                                      "views":  31,
+                                      "views":  33,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  36
+                      "score":  38
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbeZQF5EwNg",
@@ -98,11 +122,11 @@
                       "category":  "동물의 감각 원리",
                       "topic":  "염소 동공은 왜 가로로 길까",
                       "metrics":  {
-                                      "views":  972,
+                                      "views":  973,
                                       "likes":  3,
                                       "replies":  1
                                   },
-                      "score":  986
+                      "score":  987
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbc5HmioJQz",
@@ -110,11 +134,11 @@
                       "category":  "기상·자연현상",
                       "topic":  "번개는 왜 지그재그로 갈라질까",
                       "metrics":  {
-                                      "views":  71,
+                                      "views":  72,
                                       "likes":  1,
                                       "replies":  1
                                   },
-                      "score":  79
+                      "score":  80
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbb6NxCk4t1",
@@ -122,11 +146,11 @@
                       "category":  "동물의 감각 원리",
                       "topic":  "고양이 눈은 왜 어둠 속에서 빛나 보일까",
                       "metrics":  {
-                                      "views":  19,
+                                      "views":  20,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  24
+                      "score":  25
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbaVEIyoC4j",
@@ -194,11 +218,11 @@
                       "category":  "channel-guide",
                       "topic":  "I KNOW, YOU KNOW 채널 안내",
                       "metrics":  {
-                                      "views":  256,
+                                      "views":  257,
                                       "likes":  3,
                                       "replies":  0
                                   },
-                      "score":  265
+                      "score":  266
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbUJKHuk9td",
@@ -283,18 +307,6 @@
                                       "replies":  0
                                   },
                       "score":  149
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbPwjKLE67q",
-                      "published_at":  "2026-07-26T06:35:11+0000",
-                      "category":  "general",
-                      "topic":  "모래에 작은 깔때기를 파고",
-                      "metrics":  {
-                                      "views":  125,
-                                      "likes":  3,
-                                      "replies":  1
-                                  },
-                      "score":  139
                   }
               ]
 };
