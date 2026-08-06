@@ -1,18 +1,18 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-08-05T09:00:45.7201919Z",
+    "updated_at":  "2026-08-06T09:00:41.7677378Z",
     "reply_summary":  {
                           "replied":  3,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-07-30T23:51:43.0250949Z",
-                          "last_checked_at":  "2026-08-05T17:50:58.1849674+09:00"
+                          "last_checked_at":  "2026-08-06T17:50:57.8829036+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbpxGWXoIhh",
-                      "published_at":  "2026-08-05T09:00:17+0000",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbsV49OoCpG",
+                      "published_at":  "2026-08-06T09:00:16+0000",
                       "category":  "일상에서 만나는 과학",
-                      "topic":  "커피 얼룩은 왜 가장자리만 진할까",
+                      "topic":  "비눗방울의 무지개색은 어디서 생길까",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
@@ -21,16 +21,40 @@
                       "score":  5
                   },
                   {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbrROa4E8XU",
+                      "published_at":  "2026-08-05T23:00:17+0000",
+                      "category":  "동물의 감각·생존·행동",
+                      "topic":  "피트바이퍼 얼굴의 큰 구멍은 무엇을 감지할까",
+                      "metrics":  {
+                                      "views":  22,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  27
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbpxGWXoIhh",
+                      "published_at":  "2026-08-05T09:00:17+0000",
+                      "category":  "일상에서 만나는 과학",
+                      "topic":  "커피 얼룩은 왜 가장자리만 진할까",
+                      "metrics":  {
+                                      "views":  23,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  28
+                  },
+                  {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbosbhYkxBF",
                       "published_at":  "2026-08-04T23:00:17+0000",
                       "category":  "동물의 감각·생존·행동",
                       "topic":  "별코두더지의 별 모양 코는 왜 생겼을까",
                       "metrics":  {
-                                      "views":  188,
+                                      "views":  219,
                                       "likes":  1,
                                       "replies":  2
                                   },
-                      "score":  201
+                      "score":  232
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbnMS28oG8M",
@@ -38,11 +62,11 @@
                       "category":  "일상에서 만나는 과학",
                       "topic":  "동전을 만진 뒤 나는 쇠 냄새는 정말 금속 냄새일까",
                       "metrics":  {
-                                      "views":  1307,
+                                      "views":  1312,
                                       "likes":  2,
                                       "replies":  1
                                   },
-                      "score":  1318
+                      "score":  1323
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbmJVNKE5wd",
@@ -218,11 +242,11 @@
                       "category":  "channel-guide",
                       "topic":  "I KNOW, YOU KNOW 채널 안내",
                       "metrics":  {
-                                      "views":  257,
+                                      "views":  259,
                                       "likes":  3,
                                       "replies":  0
                                   },
-                      "score":  266
+                      "score":  268
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbUJKHuk9td",
@@ -283,30 +307,6 @@
                                       "replies":  2
                                   },
                       "score":  164
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbP86HxE9Ej",
-                      "published_at":  "2026-07-26T08:23:10+0000",
-                      "category":  "general",
-                      "topic":  "송골매는 산 위에만 살 것 같지만,",
-                      "metrics":  {
-                                      "views":  44,
-                                      "likes":  1,
-                                      "replies":  0
-                                  },
-                      "score":  47
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbP0Tk-k2G_",
-                      "published_at":  "2026-07-26T07:08:00+0000",
-                      "category":  "general",
-                      "topic":  "나뭇잎을 잘라 나르는 개미가",
-                      "metrics":  {
-                                      "views":  137,
-                                      "likes":  4,
-                                      "replies":  0
-                                  },
-                      "score":  149
                   }
               ]
 };
