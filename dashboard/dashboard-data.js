@@ -1,18 +1,18 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-08-06T09:00:41.7677378Z",
+    "updated_at":  "2026-08-07T09:00:42.3684021Z",
     "reply_summary":  {
                           "replied":  3,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-07-30T23:51:43.0250949Z",
-                          "last_checked_at":  "2026-08-06T17:50:57.8829036+09:00"
+                          "last_checked_at":  "2026-08-07T17:50:59.3598164+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbsV49OoCpG",
-                      "published_at":  "2026-08-06T09:00:16+0000",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbu6rkJoHGd",
+                      "published_at":  "2026-08-07T09:00:15+0000",
                       "category":  "일상에서 만나는 과학",
-                      "topic":  "비눗방울의 무지개색은 어디서 생길까",
+                      "topic":  "편광 선글라스는 왜 수면 반사를 줄일까",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
@@ -21,16 +21,40 @@
                       "score":  5
                   },
                   {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbt2Bkrk38K",
+                      "published_at":  "2026-08-06T23:00:18+0000",
+                      "category":  "동물의 감각·생존·행동",
+                      "topic":  "가리비의 파란 눈은 어떻게 빛을 모을까",
+                      "metrics":  {
+                                      "views":  31,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  36
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbsV49OoCpG",
+                      "published_at":  "2026-08-06T09:00:16+0000",
+                      "category":  "일상에서 만나는 과학",
+                      "topic":  "비눗방울의 무지개색은 어디서 생길까",
+                      "metrics":  {
+                                      "views":  134,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  139
+                  },
+                  {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbrROa4E8XU",
                       "published_at":  "2026-08-05T23:00:17+0000",
                       "category":  "동물의 감각·생존·행동",
                       "topic":  "피트바이퍼 얼굴의 큰 구멍은 무엇을 감지할까",
                       "metrics":  {
-                                      "views":  22,
+                                      "views":  24,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  27
+                      "score":  29
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbpxGWXoIhh",
@@ -38,11 +62,11 @@
                       "category":  "일상에서 만나는 과학",
                       "topic":  "커피 얼룩은 왜 가장자리만 진할까",
                       "metrics":  {
-                                      "views":  23,
+                                      "views":  25,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  28
+                      "score":  30
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbosbhYkxBF",
@@ -50,11 +74,11 @@
                       "category":  "동물의 감각·생존·행동",
                       "topic":  "별코두더지의 별 모양 코는 왜 생겼을까",
                       "metrics":  {
-                                      "views":  219,
+                                      "views":  223,
                                       "likes":  1,
                                       "replies":  2
                                   },
-                      "score":  232
+                      "score":  236
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbnMS28oG8M",
@@ -62,11 +86,11 @@
                       "category":  "일상에서 만나는 과학",
                       "topic":  "동전을 만진 뒤 나는 쇠 냄새는 정말 금속 냄새일까",
                       "metrics":  {
-                                      "views":  1312,
+                                      "views":  1313,
                                       "likes":  2,
                                       "replies":  1
                                   },
-                      "score":  1323
+                      "score":  1324
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbmJVNKE5wd",
@@ -242,11 +266,11 @@
                       "category":  "channel-guide",
                       "topic":  "I KNOW, YOU KNOW 채널 안내",
                       "metrics":  {
-                                      "views":  259,
+                                      "views":  260,
                                       "likes":  3,
                                       "replies":  0
                                   },
-                      "score":  268
+                      "score":  269
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbUJKHuk9td",
@@ -278,35 +302,11 @@
                       "category":  "과학",
                       "topic":  "우주에서는 왜 소리가 전달되지 않을까",
                       "metrics":  {
-                                      "views":  196,
+                                      "views":  197,
                                       "likes":  1,
                                       "replies":  0
                                   },
-                      "score":  199
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbThBM-k1T7",
-                      "published_at":  "2026-07-27T17:36:26+0000",
-                      "category":  "animals",
-                      "topic":  "워킹리프의 잎 위장",
-                      "metrics":  {
-                                      "views":  27,
-                                      "likes":  1,
-                                      "replies":  0
-                                  },
-                      "score":  30
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbRkxT8E-2R",
-                      "published_at":  "2026-07-26T23:30:44+0000",
-                      "category":  "general",
-                      "topic":  "문어는 색만 바꾸는 게 아닙니다.",
-                      "metrics":  {
-                                      "views":  139,
-                                      "likes":  5,
-                                      "replies":  2
-                                  },
-                      "score":  164
+                      "score":  200
                   }
               ]
 };
