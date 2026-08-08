@@ -1,24 +1,48 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-08-07T09:00:42.3684021Z",
+    "updated_at":  "2026-08-08T09:00:43.9627956Z",
     "reply_summary":  {
                           "replied":  3,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-07-30T23:51:43.0250949Z",
-                          "last_checked_at":  "2026-08-07T17:50:59.3598164+09:00"
+                          "last_checked_at":  "2026-08-08T17:50:58.9565324+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbu6rkJoHGd",
-                      "published_at":  "2026-08-07T09:00:15+0000",
-                      "category":  "일상에서 만나는 과학",
-                      "topic":  "편광 선글라스는 왜 수면 반사를 줄일까",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbxfeqiIJ3Y",
+                      "published_at":  "2026-08-08T09:00:17+0000",
+                      "category":  "일상과학·소리·유체",
+                      "topic":  "수도꼭지 물방울의 똑 소리",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
                                       "replies":  1
                                   },
                       "score":  5
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbwa0rKk9sW",
+                      "published_at":  "2026-08-07T23:00:21+0000",
+                      "category":  "동물·생존·표면과학",
+                      "topic":  "가시도마뱀은 피부로 물을 마실까",
+                      "metrics":  {
+                                      "views":  62,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  67
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbu6rkJoHGd",
+                      "published_at":  "2026-08-07T09:00:15+0000",
+                      "category":  "일상에서 만나는 과학",
+                      "topic":  "편광 선글라스는 왜 수면 반사를 줄일까",
+                      "metrics":  {
+                                      "views":  5,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  10
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbt2Bkrk38K",
@@ -38,11 +62,11 @@
                       "category":  "일상에서 만나는 과학",
                       "topic":  "비눗방울의 무지개색은 어디서 생길까",
                       "metrics":  {
-                                      "views":  134,
+                                      "views":  135,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  139
+                      "score":  140
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbrROa4E8XU",
@@ -86,11 +110,11 @@
                       "category":  "일상에서 만나는 과학",
                       "topic":  "동전을 만진 뒤 나는 쇠 냄새는 정말 금속 냄새일까",
                       "metrics":  {
-                                      "views":  1313,
+                                      "views":  1314,
                                       "likes":  2,
                                       "replies":  1
                                   },
-                      "score":  1324
+                      "score":  1325
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbmJVNKE5wd",
@@ -283,30 +307,6 @@
                                       "replies":  0
                                   },
                       "score":  29
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbUH9hAkxhp",
-                      "published_at":  "2026-07-27T23:16:48+0000",
-                      "category":  "과학",
-                      "topic":  "태양 표면의 검은 점은 왜 검게 보일까",
-                      "metrics":  {
-                                      "views":  86,
-                                      "likes":  2,
-                                      "replies":  0
-                                  },
-                      "score":  92
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbT-gzYE1RZ",
-                      "published_at":  "2026-07-27T21:54:17+0000",
-                      "category":  "과학",
-                      "topic":  "우주에서는 왜 소리가 전달되지 않을까",
-                      "metrics":  {
-                                      "views":  197,
-                                      "likes":  1,
-                                      "replies":  0
-                                  },
-                      "score":  200
                   }
               ]
 };
