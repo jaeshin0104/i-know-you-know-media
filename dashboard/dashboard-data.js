@@ -1,18 +1,18 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-08-08T09:00:43.9627956Z",
+    "updated_at":  "2026-08-10T09:00:46.9312542Z",
     "reply_summary":  {
                           "replied":  3,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-07-30T23:51:43.0250949Z",
-                          "last_checked_at":  "2026-08-08T17:50:58.9565324+09:00"
+                          "last_checked_at":  "2026-08-10T17:50:57.5514409+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbxfeqiIJ3Y",
-                      "published_at":  "2026-08-08T09:00:17+0000",
-                      "category":  "일상과학·소리·유체",
-                      "topic":  "수도꼭지 물방울의 똑 소리",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Db2pErmIG-Z",
+                      "published_at":  "2026-08-10T09:00:19+0000",
+                      "category":  "일상과학·소리·냄새",
+                      "topic":  "비 온 뒤 흙냄새",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
@@ -21,16 +21,40 @@
                       "score":  5
                   },
                   {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Db1m7YJk6K-",
+                      "published_at":  "2026-08-09T23:22:19+0000",
+                      "category":  "general",
+                      "topic":  "얼음은 고체인데, 왜 액체 물 위에 뜰까요?",
+                      "metrics":  {
+                                      "views":  41,
+                                      "likes":  1,
+                                      "replies":  1
+                                  },
+                      "score":  49
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbxfeqiIJ3Y",
+                      "published_at":  "2026-08-08T09:00:17+0000",
+                      "category":  "일상과학·소리·유체",
+                      "topic":  "수도꼭지 물방울의 똑 소리",
+                      "metrics":  {
+                                      "views":  211,
+                                      "likes":  1,
+                                      "replies":  1
+                                  },
+                      "score":  219
+                  },
+                  {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbwa0rKk9sW",
                       "published_at":  "2026-08-07T23:00:21+0000",
                       "category":  "동물·생존·표면과학",
                       "topic":  "가시도마뱀은 피부로 물을 마실까",
                       "metrics":  {
-                                      "views":  62,
+                                      "views":  65,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  67
+                      "score":  70
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbu6rkJoHGd",
@@ -38,11 +62,11 @@
                       "category":  "일상에서 만나는 과학",
                       "topic":  "편광 선글라스는 왜 수면 반사를 줄일까",
                       "metrics":  {
-                                      "views":  5,
+                                      "views":  6,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  10
+                      "score":  11
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbt2Bkrk38K",
@@ -194,11 +218,11 @@
                       "category":  "동물의 감각 원리",
                       "topic":  "염소 동공은 왜 가로로 길까",
                       "metrics":  {
-                                      "views":  973,
+                                      "views":  976,
                                       "likes":  3,
                                       "replies":  1
                                   },
-                      "score":  987
+                      "score":  990
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbc5HmioJQz",
@@ -283,30 +307,6 @@
                                       "replies":  2
                                   },
                       "score":  59
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbULy6vE2t5",
-                      "published_at":  "2026-07-27T23:50:18+0000",
-                      "category":  "channel-guide",
-                      "topic":  "I KNOW, YOU KNOW 채널 안내",
-                      "metrics":  {
-                                      "views":  260,
-                                      "likes":  3,
-                                      "replies":  0
-                                  },
-                      "score":  269
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbUJKHuk9td",
-                      "published_at":  "2026-07-27T23:27:15+0000",
-                      "category":  "과학",
-                      "topic":  "목성의 붉은 점은 왜 수백 년째 사라지지 않을까",
-                      "metrics":  {
-                                      "views":  29,
-                                      "likes":  0,
-                                      "replies":  0
-                                  },
-                      "score":  29
                   }
               ]
 };
