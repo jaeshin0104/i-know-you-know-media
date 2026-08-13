@@ -1,18 +1,18 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-08-10T09:00:46.9312542Z",
+    "updated_at":  "2026-08-13T09:00:45.7945381Z",
     "reply_summary":  {
-                          "replied":  3,
+                          "replied":  4,
                           "ignored":  0,
                           "failed":  1,
-                          "last_action_at":  "2026-07-30T23:51:43.0250949Z",
-                          "last_checked_at":  "2026-08-10T17:50:57.5514409+09:00"
+                          "last_action_at":  "2026-08-11T22:11:37.5949172Z",
+                          "last_checked_at":  "2026-08-13T17:54:03.8770920+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Db2pErmIG-Z",
-                      "published_at":  "2026-08-10T09:00:19+0000",
-                      "category":  "일상과학·소리·냄새",
-                      "topic":  "비 온 뒤 흙냄새",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Db-XdI9oCDj",
+                      "published_at":  "2026-08-13T09:00:16+0000",
+                      "category":  "음식·재료의 과학",
+                      "topic":  "바나나 갈변",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
@@ -21,16 +21,52 @@
                       "score":  5
                   },
                   {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Db9SzF6E8YK",
+                      "published_at":  "2026-08-12T23:00:21+0000",
+                      "category":  "동물·곤충의 행동",
+                      "topic":  "꿀벌 꽃가루 바구니",
+                      "metrics":  {
+                                      "views":  31,
+                                      "likes":  2,
+                                      "replies":  1
+                                  },
+                      "score":  42
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Db6oWN2k9s9",
+                      "published_at":  "2026-08-11T22:10:56+0000",
+                      "category":  "일상과학·음식·화학",
+                      "topic":  "사과를 자르면 왜 갈색이 될까",
+                      "metrics":  {
+                                      "views":  28,
+                                      "likes":  0,
+                                      "replies":  2
+                                  },
+                      "score":  38
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Db2pErmIG-Z",
+                      "published_at":  "2026-08-10T09:00:19+0000",
+                      "category":  "일상과학·소리·냄새",
+                      "topic":  "비 온 뒤 흙냄새",
+                      "metrics":  {
+                                      "views":  202,
+                                      "likes":  1,
+                                      "replies":  1
+                                  },
+                      "score":  210
+                  },
+                  {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Db1m7YJk6K-",
                       "published_at":  "2026-08-09T23:22:19+0000",
                       "category":  "general",
                       "topic":  "얼음은 고체인데, 왜 액체 물 위에 뜰까요?",
                       "metrics":  {
-                                      "views":  41,
+                                      "views":  46,
                                       "likes":  1,
                                       "replies":  1
                                   },
-                      "score":  49
+                      "score":  54
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbxfeqiIJ3Y",
@@ -38,11 +74,11 @@
                       "category":  "일상과학·소리·유체",
                       "topic":  "수도꼭지 물방울의 똑 소리",
                       "metrics":  {
-                                      "views":  211,
+                                      "views":  212,
                                       "likes":  1,
                                       "replies":  1
                                   },
-                      "score":  219
+                      "score":  220
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbwa0rKk9sW",
@@ -218,11 +254,11 @@
                       "category":  "동물의 감각 원리",
                       "topic":  "염소 동공은 왜 가로로 길까",
                       "metrics":  {
-                                      "views":  976,
+                                      "views":  977,
                                       "likes":  3,
                                       "replies":  1
                                   },
-                      "score":  990
+                      "score":  991
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbc5HmioJQz",
@@ -254,11 +290,11 @@
                       "category":  "일상 과학",
                       "topic":  "양파를 썰면 왜 눈물이 날까",
                       "metrics":  {
-                                      "views":  26,
+                                      "views":  28,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  31
+                      "score":  33
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbZUHz-EyPi",
@@ -271,42 +307,6 @@
                                       "replies":  0
                                   },
                       "score":  121
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbXymGdkxrK",
-                      "published_at":  "2026-07-29T09:27:03+0000",
-                      "category":  "일상 과학",
-                      "topic":  "비행기 창문의 작은 구멍",
-                      "metrics":  {
-                                      "views":  211,
-                                      "likes":  1,
-                                      "replies":  1
-                                  },
-                      "score":  219
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbWsA52ExLU",
-                      "published_at":  "2026-07-28T23:10:19+0000",
-                      "category":  "과학·우주",
-                      "topic":  "달의 발자국은 왜 오래 남을까",
-                      "metrics":  {
-                                      "views":  163,
-                                      "likes":  0,
-                                      "replies":  0
-                                  },
-                      "score":  163
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbVUAc_jkXo",
-                      "published_at":  "2026-07-28T10:21:17+0000",
-                      "category":  "동물·과학",
-                      "topic":  "펭귄 발의 역류 열교환",
-                      "metrics":  {
-                                      "views":  46,
-                                      "likes":  1,
-                                      "replies":  2
-                                  },
-                      "score":  59
                   }
               ]
 };
