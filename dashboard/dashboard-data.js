@@ -1,24 +1,48 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-08-13T09:00:45.7945381Z",
+    "updated_at":  "2026-08-14T09:00:46.3149183Z",
     "reply_summary":  {
-                          "replied":  4,
+                          "replied":  6,
                           "ignored":  0,
                           "failed":  1,
-                          "last_action_at":  "2026-08-11T22:11:37.5949172Z",
-                          "last_checked_at":  "2026-08-13T17:54:03.8770920+09:00"
+                          "last_action_at":  "2026-08-14T03:05:29.7743482Z",
+                          "last_checked_at":  "2026-08-14T17:54:04.7051616+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Db-XdI9oCDj",
-                      "published_at":  "2026-08-13T09:00:16+0000",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcA8QGYIN2k",
+                      "published_at":  "2026-08-14T09:00:18+0000",
                       "category":  "음식·재료의 과학",
-                      "topic":  "바나나 갈변",
+                      "topic":  "소금이 얼음을 녹이는 이유",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
                                       "replies":  1
                                   },
                       "score":  5
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcAKpkaEyL5",
+                      "published_at":  "2026-08-14T01:46:52+0000",
+                      "category":  "동물·곤충의 감각",
+                      "topic":  "고양이 수염",
+                      "metrics":  {
+                                      "views":  247,
+                                      "likes":  10,
+                                      "replies":  3
+                                  },
+                      "score":  292
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Db-XdI9oCDj",
+                      "published_at":  "2026-08-13T09:00:16+0000",
+                      "category":  "음식·재료의 과학",
+                      "topic":  "바나나 갈변",
+                      "metrics":  {
+                                      "views":  4,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  9
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Db9SzF6E8YK",
@@ -283,30 +307,6 @@
                                       "replies":  1
                                   },
                       "score":  25
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbaVEIyoC4j",
-                      "published_at":  "2026-07-30T09:06:43+0000",
-                      "category":  "일상 과학",
-                      "topic":  "양파를 썰면 왜 눈물이 날까",
-                      "metrics":  {
-                                      "views":  28,
-                                      "likes":  0,
-                                      "replies":  1
-                                  },
-                      "score":  33
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbZUHz-EyPi",
-                      "published_at":  "2026-07-29T23:39:15+0000",
-                      "category":  "동물 과학",
-                      "topic":  "나무개구리는 몸이 얼어도 어떻게 살아남을까",
-                      "metrics":  {
-                                      "views":  121,
-                                      "likes":  0,
-                                      "replies":  0
-                                  },
-                      "score":  121
                   }
               ]
 };
