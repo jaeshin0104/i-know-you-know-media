@@ -1,18 +1,18 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-08-14T09:00:46.3149183Z",
+    "updated_at":  "2026-08-15T09:00:46.0506538Z",
     "reply_summary":  {
                           "replied":  6,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-08-14T03:05:29.7743482Z",
-                          "last_checked_at":  "2026-08-14T17:54:04.7051616+09:00"
+                          "last_checked_at":  "2026-08-15T17:54:06.9901005+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcA8QGYIN2k",
-                      "published_at":  "2026-08-14T09:00:18+0000",
-                      "category":  "음식·재료의 과학",
-                      "topic":  "소금이 얼음을 녹이는 이유",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcDhC3BIIPe",
+                      "published_at":  "2026-08-15T09:00:18+0000",
+                      "category":  "음식·감각 과학",
+                      "topic":  "토마토는 왜 냉장고에 넣으면 향이 약해질까",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
@@ -21,16 +21,40 @@
                       "score":  5
                   },
                   {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcCcY8_E-jq",
+                      "published_at":  "2026-08-14T23:00:24+0000",
+                      "category":  "기상·자연현상",
+                      "topic":  "빗방울은 왜 눈물 모양이 아닐까",
+                      "metrics":  {
+                                      "views":  18,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  23
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcA8QGYIN2k",
+                      "published_at":  "2026-08-14T09:00:18+0000",
+                      "category":  "음식·재료의 과학",
+                      "topic":  "소금이 얼음을 녹이는 이유",
+                      "metrics":  {
+                                      "views":  531,
+                                      "likes":  2,
+                                      "replies":  1
+                                  },
+                      "score":  542
+                  },
+                  {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DcAKpkaEyL5",
                       "published_at":  "2026-08-14T01:46:52+0000",
                       "category":  "동물·곤충의 감각",
                       "topic":  "고양이 수염",
                       "metrics":  {
-                                      "views":  247,
-                                      "likes":  10,
+                                      "views":  363,
+                                      "likes":  12,
                                       "replies":  3
                                   },
-                      "score":  292
+                      "score":  414
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Db-XdI9oCDj",
@@ -50,11 +74,11 @@
                       "category":  "동물·곤충의 행동",
                       "topic":  "꿀벌 꽃가루 바구니",
                       "metrics":  {
-                                      "views":  31,
+                                      "views":  32,
                                       "likes":  2,
                                       "replies":  1
                                   },
-                      "score":  42
+                      "score":  43
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Db6oWN2k9s9",
@@ -278,35 +302,11 @@
                       "category":  "동물의 감각 원리",
                       "topic":  "염소 동공은 왜 가로로 길까",
                       "metrics":  {
-                                      "views":  977,
+                                      "views":  978,
                                       "likes":  3,
                                       "replies":  1
                                   },
-                      "score":  991
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbc5HmioJQz",
-                      "published_at":  "2026-07-31T09:00:16+0000",
-                      "category":  "기상·자연현상",
-                      "topic":  "번개는 왜 지그재그로 갈라질까",
-                      "metrics":  {
-                                      "views":  72,
-                                      "likes":  1,
-                                      "replies":  1
-                                  },
-                      "score":  80
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbb6NxCk4t1",
-                      "published_at":  "2026-07-30T23:50:36+0000",
-                      "category":  "동물의 감각 원리",
-                      "topic":  "고양이 눈은 왜 어둠 속에서 빛나 보일까",
-                      "metrics":  {
-                                      "views":  20,
-                                      "likes":  0,
-                                      "replies":  1
-                                  },
-                      "score":  25
+                      "score":  992
                   }
               ]
 };
