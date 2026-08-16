@@ -1,24 +1,48 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-08-15T09:00:46.0506538Z",
+    "updated_at":  "2026-08-16T09:00:48.5042779Z",
     "reply_summary":  {
-                          "replied":  6,
+                          "replied":  8,
                           "ignored":  0,
                           "failed":  1,
-                          "last_action_at":  "2026-08-14T03:05:29.7743482Z",
-                          "last_checked_at":  "2026-08-15T17:54:06.9901005+09:00"
+                          "last_action_at":  "2026-08-16T02:36:50.9146690Z",
+                          "last_checked_at":  "2026-08-16T17:54:02.9314149+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcDhC3BIIPe",
-                      "published_at":  "2026-08-15T09:00:18+0000",
-                      "category":  "음식·감각 과학",
-                      "topic":  "토마토는 왜 냉장고에 넣으면 향이 약해질까",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcGF19yoHy_",
+                      "published_at":  "2026-08-16T09:00:19+0000",
+                      "category":  "동물·곤충의 행동",
+                      "topic":  "개미는 어떻게 줄을 따라갈까",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
                                       "replies":  1
                                   },
                       "score":  5
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcFZ4UQE3fO",
+                      "published_at":  "2026-08-16T02:36:11+0000",
+                      "category":  "동물의 문제 해결 행동",
+                      "topic":  "까마귀는 왜 물병에 돌을 넣을까",
+                      "metrics":  {
+                                      "views":  189,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  194
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcDhC3BIIPe",
+                      "published_at":  "2026-08-15T09:00:18+0000",
+                      "category":  "음식·감각 과학",
+                      "topic":  "토마토는 왜 냉장고에 넣으면 향이 약해질까",
+                      "metrics":  {
+                                      "views":  204,
+                                      "likes":  0,
+                                      "replies":  1
+                                  },
+                      "score":  209
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DcCcY8_E-jq",
@@ -38,11 +62,11 @@
                       "category":  "음식·재료의 과학",
                       "topic":  "소금이 얼음을 녹이는 이유",
                       "metrics":  {
-                                      "views":  531,
+                                      "views":  535,
                                       "likes":  2,
                                       "replies":  1
                                   },
-                      "score":  542
+                      "score":  546
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DcAKpkaEyL5",
@@ -50,11 +74,11 @@
                       "category":  "동물·곤충의 감각",
                       "topic":  "고양이 수염",
                       "metrics":  {
-                                      "views":  363,
+                                      "views":  364,
                                       "likes":  12,
                                       "replies":  3
                                   },
-                      "score":  414
+                      "score":  415
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/Db-XdI9oCDj",
@@ -110,11 +134,11 @@
                       "category":  "general",
                       "topic":  "얼음은 고체인데, 왜 액체 물 위에 뜰까요?",
                       "metrics":  {
-                                      "views":  46,
+                                      "views":  47,
                                       "likes":  1,
                                       "replies":  1
                                   },
-                      "score":  54
+                      "score":  55
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbxfeqiIJ3Y",
@@ -170,11 +194,11 @@
                       "category":  "일상에서 만나는 과학",
                       "topic":  "비눗방울의 무지개색은 어디서 생길까",
                       "metrics":  {
-                                      "views":  135,
+                                      "views":  136,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  140
+                      "score":  141
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DbrROa4E8XU",
@@ -283,30 +307,6 @@
                                       "replies":  3
                                   },
                       "score":  709
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbfd6jzoECf",
-                      "published_at":  "2026-08-01T09:00:17+0000",
-                      "category":  "동물의 생존·행동 원리",
-                      "topic":  "올빼미는 왜 날갯소리가 작을까",
-                      "metrics":  {
-                                      "views":  33,
-                                      "likes":  0,
-                                      "replies":  1
-                                  },
-                      "score":  38
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbeZQF5EwNg",
-                      "published_at":  "2026-07-31T23:00:16+0000",
-                      "category":  "동물의 감각 원리",
-                      "topic":  "염소 동공은 왜 가로로 길까",
-                      "metrics":  {
-                                      "views":  978,
-                                      "likes":  3,
-                                      "replies":  1
-                                  },
-                      "score":  992
                   }
               ]
 };
