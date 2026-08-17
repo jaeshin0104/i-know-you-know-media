@@ -1,18 +1,18 @@
 ﻿window.PUBLIC_DASHBOARD = {
-    "updated_at":  "2026-08-16T09:00:48.5042779Z",
+    "updated_at":  "2026-08-17T09:00:43.9544662Z",
     "reply_summary":  {
                           "replied":  8,
                           "ignored":  0,
                           "failed":  1,
                           "last_action_at":  "2026-08-16T02:36:50.9146690Z",
-                          "last_checked_at":  "2026-08-16T17:54:02.9314149+09:00"
+                          "last_checked_at":  "2026-08-17T17:54:04.0892173+09:00"
                       },
     "posts":  [
                   {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcGF19yoHy_",
-                      "published_at":  "2026-08-16T09:00:19+0000",
-                      "category":  "동물·곤충의 행동",
-                      "topic":  "개미는 어떻게 줄을 따라갈까",
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcIqoy_IH06",
+                      "published_at":  "2026-08-17T09:00:19+0000",
+                      "category":  "동물의 행동·감각",
+                      "topic":  "고양이는 왜 상자에 들어갈까",
                       "metrics":  {
                                       "views":  0,
                                       "likes":  0,
@@ -21,16 +21,40 @@
                       "score":  5
                   },
                   {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcHl-MDE8t-",
+                      "published_at":  "2026-08-16T23:00:20+0000",
+                      "category":  "동물의 행동·감각",
+                      "topic":  "고양이는 왜 높은 곳을 좋아할까",
+                      "metrics":  {
+                                      "views":  244,
+                                      "likes":  4,
+                                      "replies":  2
+                                  },
+                      "score":  266
+                  },
+                  {
+                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DcGF19yoHy_",
+                      "published_at":  "2026-08-16T09:00:19+0000",
+                      "category":  "동물·곤충의 행동",
+                      "topic":  "개미는 어떻게 줄을 따라갈까",
+                      "metrics":  {
+                                      "views":  606,
+                                      "likes":  1,
+                                      "replies":  1
+                                  },
+                      "score":  614
+                  },
+                  {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DcFZ4UQE3fO",
                       "published_at":  "2026-08-16T02:36:11+0000",
                       "category":  "동물의 문제 해결 행동",
                       "topic":  "까마귀는 왜 물병에 돌을 넣을까",
                       "metrics":  {
-                                      "views":  189,
+                                      "views":  215,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  194
+                      "score":  220
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DcDhC3BIIPe",
@@ -38,11 +62,11 @@
                       "category":  "음식·감각 과학",
                       "topic":  "토마토는 왜 냉장고에 넣으면 향이 약해질까",
                       "metrics":  {
-                                      "views":  204,
+                                      "views":  206,
                                       "likes":  0,
                                       "replies":  1
                                   },
-                      "score":  209
+                      "score":  211
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DcCcY8_E-jq",
@@ -62,11 +86,11 @@
                       "category":  "음식·재료의 과학",
                       "topic":  "소금이 얼음을 녹이는 이유",
                       "metrics":  {
-                                      "views":  535,
+                                      "views":  536,
                                       "likes":  2,
                                       "replies":  1
                                   },
-                      "score":  546
+                      "score":  547
                   },
                   {
                       "permalink":  "https://www.threads.com/@i_known_you_know/post/DcAKpkaEyL5",
@@ -283,30 +307,6 @@
                                       "replies":  1
                                   },
                       "score":  12
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/DbiOzYyIChj",
-                      "published_at":  "2026-08-02T10:45:56+0000",
-                      "category":  "일상에서 만나는 재료 과학",
-                      "topic":  "연잎은 왜 빗방울로 스스로 깨끗해질까",
-                      "metrics":  {
-                                      "views":  16,
-                                      "likes":  0,
-                                      "replies":  1
-                                  },
-                      "score":  21
-                  },
-                  {
-                      "permalink":  "https://www.threads.com/@i_known_you_know/post/Dbg-C9Zk50w",
-                      "published_at":  "2026-08-01T23:00:17+0000",
-                      "category":  "동물의 생존·감각 원리",
-                      "topic":  "도마뱀붙이는 접착제 없이 어떻게 벽에 붙을까",
-                      "metrics":  {
-                                      "views":  688,
-                                      "likes":  2,
-                                      "replies":  3
-                                  },
-                      "score":  709
                   }
               ]
 };
